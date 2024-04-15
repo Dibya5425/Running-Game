@@ -1,42 +1,30 @@
-<h1 align="center"> Bootcamp Final Project </h1> <br>
-<p align="center">
-  <a href="#">
-    <img alt="GitPoint" title="GitPoint" src="readme/vol1.png">
-  </a>
-</p>
-<br>
+<h1 align="center"> Game Development (Unity 3D) CA-2 </h1> <br>
 
-## Tools
-
-Technologies I used in the game.
-
-* Cinemachine
-* Mixamo for Animation
-* Mixamo for Character I used <a href="https://www.mixamo.com/#/?page=1&query=timmy&type=Character">Timmy</a>
-* Low-Poly Simple Nature Pack <a href="https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153">JustCreate</a>
-<br>
 
 ### Gameplay
 
 <br>
 <p align="center">
+  <h3>Level 1</h3>
   <img src = "readme/resim1.png">
 </p>
 <br>
 
 <br>
 <p align="center">
+  <h3>Level 2</h3>
   <img src = "readme/resim2.png">
 </p>
 <br>
 
 <br>
 <p align="center">
+  <h3>Level 3</h3>
   <img src = "readme/resim3.png">
 </p>
 <br>
 
-## Details
-The aim of the game is to collect gold in general. As you collect gold, the number of gold in the upper left increases. The game consists of three levels. When we reach the end of the map, we pass to the new level. The game repeats like this. After the last level, the first level starts again. We have obstacles in the game. When you touch these obstacles, you fail and the level starts again.
-
-
+## About The Game
+The aim of the game is to collect gold in general. As you collect gold, the number of gold in the upper left increases. The game consists of three levels. When we reach the end of the map, we pass to the new level. The game repeats like this. After the last level, the first level starts again. We have obstacles in the game. When you touch these obstacles, you fail and the level starts again. <br>
+This game is developed using Unity 3D, and the scripting for gameplay elements such as coin collection, object rotation, level upgrades, obstacles, and player movement is implemented in the C# language. <br>
+This game was created under the guidance of Gunseer Kaur.
